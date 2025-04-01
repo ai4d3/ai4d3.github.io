@@ -1,1 +1,1 @@
-# Homepage of the NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development (AI4D3-2023), New Orleans, LA, USA, December 2023
+# Homepage of the 2025 Midwest AI for Drug Discovery and Development Workshop (AI4D3-Midwest-2025), Chicago, IL, USA, April 2025
